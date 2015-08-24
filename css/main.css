@@ -8,7 +8,6 @@ body {
     background-color: #151314;
     text-rendering: optimizeLegibility;
     -webkit-text-smoothing: antialised;
-    margin: 0;
 }
 
 .main {
